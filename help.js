@@ -723,12 +723,12 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
-
 *Payment Dana*
-Number: 085789004732
+Number: 085717497745
+A/N: RENZ JEBE
+
+*Payment GOPAY*
+Number: 083144670363
 A/N: LEXXY OFFICIAL
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* 𝑹𝑬𝑵𝒁-𝑴𝑶𝑫𝑺
  • *Umur:* 18 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* Bekasi
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 083144670363
+ • *Youtube:* 𝑹𝑬𝑵𝒁-𝑴𝑶𝑫𝑺
+ • *Github:* RenzzBot
  `
 }
